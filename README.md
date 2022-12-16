@@ -5,7 +5,7 @@ For power theft, we are using 12v load, we calculate the load and if load is mor
 
  
 
-#Components used:
+# Components used:
 
 Arduino
 
